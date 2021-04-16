@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.183117bd.chunk.css",
+    "main.js": "/personal-portfolio/static/js/main.2ec53dc9.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.2ec53dc9.chunk.js.map",
+    "runtime-main.js": "/personal-portfolio/static/js/runtime-main.b34f5564.js",
+    "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.b34f5564.js.map",
+    "static/js/2.d44374ea.chunk.js": "/personal-portfolio/static/js/2.d44374ea.chunk.js",
+    "static/js/2.d44374ea.chunk.js.map": "/personal-portfolio/static/js/2.d44374ea.chunk.js.map",
+    "static/js/3.dbed9164.chunk.js": "/personal-portfolio/static/js/3.dbed9164.chunk.js",
+    "static/js/3.dbed9164.chunk.js.map": "/personal-portfolio/static/js/3.dbed9164.chunk.js.map",
+    "index.html": "/personal-portfolio/index.html",
+    "static/css/main.183117bd.chunk.css.map": "/personal-portfolio/static/css/main.183117bd.chunk.css.map",
+    "static/js/2.d44374ea.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.d44374ea.chunk.js.LICENSE.txt",
+    "static/media/product-landing-page.bada2b34.png": "/personal-portfolio/static/media/product-landing-page.bada2b34.png",
+    "static/media/react-morpion.d5867db1.png": "/personal-portfolio/static/media/react-morpion.d5867db1.png",
+    "static/media/react-pendu.4ac3d403.png": "/personal-portfolio/static/media/react-pendu.4ac3d403.png",
+    "static/media/survey-form.c340affc.png": "/personal-portfolio/static/media/survey-form.c340affc.png",
+    "static/media/technical-documentation-page.8d472513.png": "/personal-portfolio/static/media/technical-documentation-page.8d472513.png",
+    "static/media/tribute-page.45328813.png": "/personal-portfolio/static/media/tribute-page.45328813.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b34f5564.js",
+    "static/js/2.d44374ea.chunk.js",
+    "static/css/main.183117bd.chunk.css",
+    "static/js/main.2ec53dc9.chunk.js"
+  ]
+}
